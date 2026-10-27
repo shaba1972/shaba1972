@@ -1,6 +1,6 @@
 # Hi, I'm Daniel Shaba 👋
 
-### Backend Developer in Training | C# & ASP.NET Core
+### Backend Developer | C# & ASP.NET Core
 
 **Building useful software. Solving problems. Learning by building.**
 
